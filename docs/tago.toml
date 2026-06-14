@@ -1,0 +1,10 @@
+title       = "openstax"
+baseURL     = "https://openstax-cli.tamnd.com/"
+description = "A command line for openstax."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/openstax-cli"
